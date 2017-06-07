@@ -8,9 +8,9 @@ Cada atributo de qualidade pode ter, no máximo, 3 nomes.
 accessibility 
 accountability
 accuracy - daniel kiluange, felipe baruch, Litiano, (Everton, Marcos)
-adaptability - Litiano, (Everton, Marcos)
+adaptability - Litiano, (Everton, Marcos), ana iris
 administrability - Weslley e Roberto
-affordability - Kenia
+affordability - Kenia,ana iris 
 agility - daniel kiluange, felipe baruch, Litiano, Vitor Marcelino
 auditability - (Mário Júnior, Juliana Nascimento)
 autonomy - rafael
@@ -44,7 +44,7 @@ interchangeability
 interoperability - Litiano, (Everton, Marcos)
 learnability - (Kenia, Mário Júnior, Juliana Nascimento, Litiano)
 maintainability - (Everton, Marcos), Vitor Marcelino
-manageability
+manageability - ana iris
 mobility - Weslley e Roberto, rafael
 modifiability
 modularity - Kenia - (Mário Júnior, Juliana Nascimento)
@@ -56,23 +56,23 @@ predictability
 process capabilities
 producibility
 provability
-recoverability - Litiano, (Everton, Marcos)
+recoverability - Litiano, (Everton, Marcos), ana iris
 relevance - Weslley e Roberto
 repairability
 repeatability
 reproducibility
 resilience - daniel kiluange, felipe baruch
-responsiveness - Kenia,  (Everton, Marcos)
+responsiveness - Kenia,  (Everton, Marcos), ana iris
 reusability - (Kenia, Mário Júnior, Juliana Nascimento)
-safety - Kenia, (Mário Júnior, Juliana Nascimento), Litiano, rafael
+safety - Kenia, (Mário Júnior, Juliana Nascimento), Litianana iriso, rafael
 scalability - Weslley e Roberto, Vitor Marcelino
 seamlessness
 self-sustainability
 serviceability (a.k.a. supportability)
 securability - daniel kiluange, felipe baruch, Vitor Marcelino
-simplicity - Weslley e Roberto, Vitor Marcelino
+simplicity - Weslley e Roberto, Vitor Marcelino,ana iris, 
 stability - (Everton, Marcos)
-standards compliance
+standards compliance - ana iris
 survivability
 sustainability
 tailorability
@@ -83,5 +83,5 @@ transparency - Weslley e Roberto
 ubiquity
 understandability
 upgradability - Vitor Marcelino
-usability - Kenia, (Mário Júnior, Juliana Nascimento), Litiano, rafael
+usability - Kenia, (Mário Júnior, Juliana Nascimento), Litiano, rafael, ana iris
 verifiability
